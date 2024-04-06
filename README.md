@@ -1,6 +1,6 @@
 # AFM image simulation
 
-This code is developed for simulating AFM image from atomic models. *Shall we upload the AFM data?*
+This code is developed for simulating AFM image from atomic models.
 
 Data: 03/2024.
 
